@@ -48,6 +48,15 @@ a:hover {
   text-decoration: underline;
 }
 
+.foto-perfil { 
+width: 120px; 
+height: 120px; 
+border-radius: 50%; /* Foto redonda */ 
+border: 3px solid white; 
+margin-top: 1rem; 
+}
+
+
 /*INICIO ESTILOS NUEVOS*/
 .contenido{
   display: none;
